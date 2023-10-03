@@ -7,7 +7,6 @@ a = 3
 b = 2
 c = 1
 
-
 if (c % a == 0 or c % b == 0) and c < a * b:
     print('yes')
 else:
